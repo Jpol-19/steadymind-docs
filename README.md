@@ -1,2 +1,2 @@
 # steadymind-docs
-Poliy and docs for steadymind journal app.
+Policy and docs for SteadyMind Journal app.
